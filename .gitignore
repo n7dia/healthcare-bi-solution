@@ -1,0 +1,16 @@
+# Credentials
+*password*
+*.env
+
+# Data files (too large)
+*.csv
+clinical_data.csv
+
+# Python
+__pycache__/
+*.pyc
+myenv/
+
+
+# Mac files
+.DS_Store
