@@ -1,1 +1,1 @@
-# healthcare-bi-solution
+# Healthcare BI Solution
