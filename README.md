@@ -1,6 +1,7 @@
 # Healthcare BI Solution
 
 Power BI analytics for healthcare clinical outcomes analysis.
+VIDEO: https://youtu.be/1rt85BteuPA 
 
 ## Architecture
 Data flows from synthetic generation → Azure SQL warehouse → 
