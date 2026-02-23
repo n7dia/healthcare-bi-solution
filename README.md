@@ -1,6 +1,6 @@
 # Healthcare BI Solution
 
-Power BI analytics for healthcare clinical outcomes analysis.
+Power BI analytics for healthcare clinical outcomes analysis.<br>
 VIDEO: https://youtu.be/1rt85BteuPA 
 
 ## Architecture
