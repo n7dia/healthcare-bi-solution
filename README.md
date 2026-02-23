@@ -15,13 +15,13 @@ data mart → Power BI dashboards
 
 ## Dashboards
 1. Clinical Performance Overview
-![Clinical Performance Overview](images/dashboard1_clinical_overview.jpeg)
+![Clinical Performance Overview](images/dashboard1_clinical_overview.png)
 2. Provider Analytics
-![Clinical Performance Overview](images/dashboard2_provider_analytics.jpeg)
+![Clinical Performance Overview](images/dashboard2_provider_analytics.png)
 3. Quality & Safety
-![Clinical Performance Overview](images/dashboard3_quality_safety.jpeg)
+![Clinical Performance Overview](images/dashboard3_quality_safety.png)
 4. Research Operations
-![Clinical Performance Overview](images/dashboard4_research_operations.jpeg)
+![Clinical Performance Overview](images/dashboard4_research_operations.png)
 
 
 ## Technologies
