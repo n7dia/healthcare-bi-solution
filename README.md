@@ -230,7 +230,6 @@ healthcare-bi-solution/
 - Predictive analytics (ML models for readmission risk)
 - Real-time dashboards via Azure Event Hubs
 - Microsoft Fabric integration
-- Expanded data marts (Finance, Research, Clinical Trials)
 
 
 
