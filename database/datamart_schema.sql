@@ -73,5 +73,3 @@ CREATE INDEX idx_patient_summary_risk ON research_operations.fact_patient_summar
 CREATE INDEX idx_patient_summary_last_visit ON research_operations.fact_patient_summary(last_visit_date);
 CREATE INDEX idx_interventions_patient ON research_operations.fact_patient_interventions(patient_id);
 CREATE INDEX idx_interventions_date ON research_operations.fact_patient_interventions(intervention_date);
-
-PRINT 'Research Operations Data Mart schema created successfully';
