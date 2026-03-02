@@ -21,7 +21,7 @@ VIDEO: https://youtu.be/1rt85BteuPA
 
 Data flows from synthetic data generation → Azure SQL warehouse → data mart → Power BI dashboards<br>
 
-<img src="images/healthcare-bi-architecture-diagram.png" height="1200">
+<img src="docs/architecture-diagram.png" height="1200">
 
 ## Key Features
 - 4 interactive Power BI dashboards with DirectQuery
