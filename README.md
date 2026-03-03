@@ -208,8 +208,6 @@ healthcare-bi-solution/
 ├── etl/
 │   ├── warehouse_etl.py
 │   └── datamart_etl.py
-├── powerbi/
-│   └── HealthcareAnalytics.pbix
 ├── images/
 │   ├── dashboard1_clinical_overview.png
 │   ├── dashboard2_provider_analytics.png
